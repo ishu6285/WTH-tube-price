@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TubePrices"
+        tools:targetApi="31">
+        <activity
+            android:name=".size3282"
+            android:exported="false" />
+        <activity
+            android:name=".size3281"
+            android:exported="false" />
+        <activity
+            android:name=".size3204"
+            android:exported="false" />
+        <activity
+            android:name=".size3203"
+            android:exported="false" />
+        <activity
+            android:name=".size3202"
+            android:exported="false" />
+        <activity
+            android:name=".size3201"
+            android:exported="false" />
+        <activity
+            android:name=".size3167"
+            android:exported="false" />
+        <activity
+            android:name=".size3166"
+            android:exported="false" />
+        <activity
+            android:name=".size3165"
+            android:exported="false" />
+        <activity
+            android:name=".size3164"
+            android:exported="false" />
+        <activity
+            android:name=".size3163"
+            android:exported="false" />
+        <activity
+            android:name=".size3162"
+            android:exported="false" />
+        <activity
+            android:name=".size3161"
+            android:exported="false" />
+        <activity
+            android:name=".size3153"
+            android:exported="false" />
+        <activity
+            android:name=".size3152"
+            android:exported="false" />
+        <activity
+            android:name=".size3151"
+            android:exported="false" />
+        <activity
+            android:name=".size3141"
+            android:exported="false" />
+        <activity
+            android:name=".size3131"
+            android:exported="false" />
+        <activity
+            android:name=".size3121"
+            android:exported="false" />
+        <activity
+            android:name=".size2281"
+            android:exported="false" />
+        <activity
+            android:name=".size2271"
+            android:exported="false" />
+        <activity
+            android:name=".size2263"
+            android:exported="false" />
+        <activity
+            android:name=".size2262"
+            android:exported="false" />
+        <activity
+            android:name=".size2261"
+            android:exported="false" />
+        <activity
+            android:name=".size2243"
+            android:exported="false" />
+        <activity
+            android:name=".size2242"
+            android:exported="false" />
+        <activity
+            android:name=".size2241"
+            android:exported="false" />
+        <activity
+            android:name=".size2221"
+            android:exported="false" />
+        <activity
+            android:name=".size2203"
+            android:exported="false" />
+        <activity
+            android:name=".size2202"
+            android:exported="false" />
+        <activity
+            android:name=".size2201"
+            android:exported="false" />
+        <activity
+            android:name=".size2181"
+            android:exported="false" />
+        <activity
+            android:name=".size2161"
+            android:exported="false" />
+        <activity
+            android:name=".size2142"
+            android:exported="false" />
+        <activity
+            android:name=".size2141"
+            android:exported="false" />
+        <activity
+            android:name=".size2121"
+            android:exported="false" />
+        <activity
+            android:name=".size1211"
+            android:exported="false" />
+        <activity
+            android:name=".size1182"
+            android:exported="false" />
+        <activity
+            android:name=".size1181"
+            android:exported="false" />
+        <activity
+            android:name=".size1173"
+            android:exported="false" />
+        <activity
+            android:name=".size1172"
+            android:exported="false" />
+        <activity
+            android:name=".size1171"
+            android:exported="false" />
+        <activity
+            android:name=".size1162"
+            android:exported="false" />
+        <activity
+            android:name=".size1161"
+            android:exported="false" />
+        <activity
+            android:name=".size1141"
+            android:exported="false" />
+        <activity
+            android:name=".size1121"
+            android:exported="false" />
+        <activity
+            android:name=".size1103"
+            android:exported="false" />
+        <activity
+            android:name=".size1102"
+            android:exported="false" />
+        <activity
+            android:name=".size1101"
+            android:exported="false" />
+        <activity
+            android:name=".size1081"
+            android:exported="false" />
+        <activity
+            android:name=".size44"
+            android:exported="false" />
+        <activity
+            android:name=".size43"
+            android:exported="false" />
+        <activity
+            android:name=".size42"
+            android:exported="false" />
+        <activity
+            android:name=".size41"
+            android:exported="false" />
+        <activity
+            android:name=".bicycletubesize27"
+            android:exported="false" />
+        <activity
+            android:name=".trucktubesize28"
+            android:exported="false" />
+        <activity
+            android:name=".trucktubesize20"
+            android:exported="false" />
+        <activity
+            android:name=".trucktubesize16"
+            android:exported="false" />
+        <activity
+            android:name=".trucktubesize15"
+            android:exported="false" />
+        <activity
+            android:name=".trucktubesize14"
+            android:exported="false" />
+        <activity
+            android:name=".trucktubesize13"
+            android:exported="false" />
+        <activity
+            android:name=".trucktubesize12"
+            android:exported="false" />
+        <activity
+            android:name=".bicycletubesize28"
+            android:exported="false" />
+        <activity
+            android:name=".bicycletubesize26"
+            android:exported="false" />
+        <activity
+            android:name=".bicycletubesize24"
+            android:exported="false" />
+        <activity
+            android:name=".bicycletubesize22"
+            android:exported="false" />
+        <activity
+            android:name=".bicycletubesize20"
+            android:exported="false" />
+        <activity
+            android:name=".bicycletubesize18"
+            android:exported="false" />
+        <activity
+            android:name=".bicycletubesize16"
+            android:exported="false" />
+        <activity
+            android:name=".bicycletubesize14"
+            android:exported="false" />
+        <activity
+            android:name=".bicycletubesize12"
+            android:exported="false" />
+        <activity
+            android:name=".flaps"
+            android:exported="false" />
+        <activity
+            android:name=".trucktube"
+            android:exported="false" />
+        <activity
+            android:name=".bicycletube"
+            android:exported="false" />
+        <activity
+            android:name=".biketube"
+            android:exported="false" />
+        <activity
+            android:name=".tubetype"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/main"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/txt1"
+        android:layout_marginTop="60dp"
+        android:text="Wasantha Tyre workers"
+        android:gravity="center_horizontal"
+        android:textStyle="bold"
+        android:fontFamily="serif-monospace"
+        android:textSize="40dp"
+        android:textColor="@color/white">
+
+    </TextView>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/txt2"
+        android:fontFamily="serif-monospace"
+        android:layout_marginTop="100dp"
+        android:text="Tube prices"
+        android:textStyle="bold"
+        android:textSize="40dp"
+        android:textColor="@color/white">
+
+    </TextView>
+
+
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="#A3700083"
+        android:text="Get Started"
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        android:id="@+id/btn1">
+    </Button>
+
+</LinearLayout>

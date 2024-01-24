@@ -1,0 +1,48 @@
+package com.example.tubeprices;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+
+public class trucktubesize15 extends AppCompatActivity {
+
+    private Button btn1,btn2,btn3;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_trucktubesize15);
+
+        btn1 =findViewById(R.id.btn3151);
+        btn2 =findViewById(R.id.btn3152);
+        btn3 =findViewById(R.id.btn3153);
+
+
+
+
+        btn1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(trucktubesize15.this, size3151.class));
+            }
+        });
+
+        btn2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(trucktubesize15.this, size3152.class));
+            }
+        });
+
+        btn3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(trucktubesize15.this, size3153.class));
+            }
+        });
+
+    }
+}

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#DDDDDD"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".biketube">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bike tubes"
+                android:layout_marginTop="10dp"
+                android:textColor="#1B0505"
+                android:textStyle="bold"
+                android:layout_marginBottom="20dp"
+                android:layout_gravity="center_horizontal"
+                android:textSize="30dp">
+            </TextView>
+
+            <Button
+                android:layout_width="300dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:text="400*8"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/btn1081"
+                android:backgroundTint="#756AB6">
+
+            </Button>
+
+            <Button
+                android:layout_width="300dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:text="300*10"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/btn1101"
+                android:backgroundTint="#AC87C5"/>
+            <Button
+                android:layout_width="300dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:text="350*10"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/btn1102"
+                android:backgroundTint="#AC87C5">
+            </Button>
+
+            <Button
+                android:id="@+id/btn1103"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:backgroundTint="#AC87C5"
+                android:text="450*10"
+                android:textColor="@color/black"
+                android:textSize="25dp"
+                android:textStyle="bold">
+
+            </Button>
+
+            <Button
+                android:layout_width="300dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:text="90/90*12"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/btn1121"
+                android:backgroundTint="#E0AED0">
+
+            </Button>
+
+
+            <Button
+                android:layout_width="300dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:text="275/300*14"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/btn1141"
+                android:backgroundTint="#DCF2F1">
+            </Button>
+            <Button
+                android:layout_width="300dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:text="350*16"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/btn1161"
+                android:backgroundTint="#52D3D8">
+            </Button>
+
+            <Button
+                android:layout_width="300dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:text="225/250*16"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/btn1162"
+                android:backgroundTint="#52D3D8">
+            </Button>
+
+            <Button
+                android:id="@+id/btn1171"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:backgroundTint="#86A7FC"
+                android:text="225/250*17"
+                android:textColor="@color/black"
+                android:textSize="25dp"
+                android:textStyle="bold">
+
+            </Button>
+
+            <Button
+                android:layout_width="300dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:text="275/300*17"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/btn1172"
+                android:backgroundTint="#86A7FC">
+            </Button>
+
+            <Button
+                android:layout_width="300dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:text="100/90*17"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/btn1173"
+                android:backgroundTint="#86A7FC">
+            </Button>
+
+            <Button
+                android:layout_width="300dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:text="275/300*18"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/btn1181"
+                android:backgroundTint="#3468C0">
+            </Button>
+            <Button
+                android:layout_width="300dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:text="250*18"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/btn1182"
+                android:backgroundTint="#3468C0">
+            </Button>
+
+
+            <Button
+                android:layout_width="300dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:text="275/300*21"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/btn1211"
+                android:backgroundTint="#3887BE">
+            </Button>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</LinearLayout>

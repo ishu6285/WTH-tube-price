@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "331292172082",
+    "firebase_url": "https://my-application-6ac1c-default-rtdb.firebaseio.com",
+    "project_id": "my-application-6ac1c",
+    "storage_bucket": "my-application-6ac1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331292172082:android:d645da07f03a90b61e012b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8-MfE83xUdmHznrMeE-IX1bGnAa_sXAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331292172082:android:ee83ec0eaa46c0a31e012b",
+        "android_client_info": {
+          "package_name": "com.example.tubeprices"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8-MfE83xUdmHznrMeE-IX1bGnAa_sXAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
